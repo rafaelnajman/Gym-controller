@@ -1,0 +1,13 @@
+{
+  "instructors": [
+    {
+      "id": 1,
+      "name": "Rafael",
+      "gender": "M",
+      "created_at": 1605614551042,
+      "services": "Torah, guemara",
+      "birth": 7956835200000,
+      "avatar_url": "http://google.com"
+    }
+  ]
+}
